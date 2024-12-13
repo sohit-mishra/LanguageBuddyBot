@@ -60,4 +60,3 @@ Feel free to submit issues or pull requests to improve LanguageBuddyBot. Contrib
 
 ---
 
-Start your language learning journey with **LanguageBuddyBot** today!
